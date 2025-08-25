@@ -18,11 +18,7 @@ This project is an AI-powered tool built with Streamlit that analyzes user input
 	•	ReportLab (PDF generation)
 	•	Pandas for data handling
 
-⚙️ Installation & Usage
 
-# Clone the repository
-git clone https://github.com/your-username/ai-analyzer-enhancer.git
-cd ai-analyzer-enhancer
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
@@ -36,7 +32,6 @@ pip install -r requirements.txt
 streamlit run app.py
 📸 Screenshot
 
-(Add your Streamlit app screenshot here for better presentation)
 
 ![Uploading SCR-20250825-srbb.png…]()
 
