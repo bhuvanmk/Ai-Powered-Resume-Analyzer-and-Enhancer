@@ -32,8 +32,7 @@ pip install -r requirements.txt
 streamlit run app.py
 📸 Screenshot
 
-
-![Uploading SCR-20250825-srbb.png…]()
+https://github.com/bhuvanmk/Ai-Powered-Resume-Analyzer-and-Enhancer/blob/main/SCR-20250825-srbb.png
 
 
 📌 Use Cases
