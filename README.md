@@ -29,14 +29,13 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 
 # Run the app
-streamlit run app.py
-📸 Screenshot
-
-https://github.com/bhuvanmk/Ai-Powered-Resume-Analyzer-and-Enhancer/blob/main/SCR-20250825-srbb.png
-
+streamlit run app.p
 
 📌 Use Cases
 	•	Resume enhancement for job applications
 	•	Improving content clarity & structure
 	•	Generating professional reports
 	•	Text preprocessing for NLP tasks
+📸 Screenshot
+<img width="1672" height="12081" alt="SCR-20250825-srbb" src="https://github.com/user-attachments/assets/85c80baa-b1d8-4c1f-9e54-70a012e469fd" />
+
